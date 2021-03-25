@@ -19,10 +19,10 @@ sys.path.insert(0, os.path.abspath('..'))
 
 project = 'ipfs-search'
 copyright = '2021, Mathijs de Bruin'
-author = 'lmt'
+author = 'Mathijs de Bruin'
 
 # The full version, including alpha/beta/rc tags
-release = '3000'
+# release = '3000'
 
 
 # -- General configuration ---------------------------------------------------

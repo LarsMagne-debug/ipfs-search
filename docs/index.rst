@@ -3,21 +3,23 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to ipfs-search-lmt's documentation!
+Welcome to ipfs-search documentation!
 ===========================================
 
-A documentation repository for ipfs-search
+This is a draft documentation page ipfs-search.com
+
+**OBS: Work in progress** 
 
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   modules
+   READMEsymlink 
    README
    snapshots
-   ../README  
    ipfs_datatypes
+   CONTRIBUTINGsymlink
 
 
 

@@ -10,7 +10,7 @@ This is a draft documentation page ipfs-search.com
 
 **OBS: Work in progress**
 
-.. image:: ~/docs/images/ipfs-search-arch-inv.png
+.. image:: https://github.com/LarsMagne-debug/ipfs-search/blob/readthedocs/docs/images/ipfs-search-arch-inv.png
    :alt: Current ipfs-search architecture
    :align: left
 
